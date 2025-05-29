@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75a99bdb-5632-465d-9b2b-1b8fff0f7088" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/Pr5/TSP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pr5/TSP_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pr4/Attractor Lorenz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pr4/Attractor Lorenz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pr5/TSP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pr5/TSP.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +198,7 @@
       <workItem from="1747303874668" duration="2392000" />
       <workItem from="1747849312366" duration="622000" />
       <workItem from="1748360483229" duration="13590000" />
-      <workItem from="1748521991649" duration="6220000" />
+      <workItem from="1748521991649" duration="8412000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -226,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747225268978</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add">
+      <option name="closed" value="true" />
+      <created>1748528792170</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748528792170</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,8 +259,8 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Lorenz_attractor$.coverage" NAME=" Coverage Results" MODIFIED="1748528375408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pr5" />
-    <SUITE FILE_PATH="coverage/Lorenz_attractor$TSP.coverage" NAME="TSP Coverage Results" MODIFIED="1748528170121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pr5" />
+    <SUITE FILE_PATH="coverage/Lorenz_attractor$.coverage" NAME=" Coverage Results" MODIFIED="1748530923589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pr5" />
+    <SUITE FILE_PATH="coverage/Lorenz_attractor$TSP.coverage" NAME="TSP Coverage Results" MODIFIED="1748530656989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pr5" />
     <SUITE FILE_PATH="coverage/Lorenz_attractor$TSP_test.coverage" NAME="TSP_test Coverage Results" MODIFIED="1748444848452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pr5" />
     <SUITE FILE_PATH="coverage/Lorenz_attractor$Attractor_Lorenz.coverage" NAME="Attractor Lorenz Coverage Results" MODIFIED="1747305246889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pr4" />
     <SUITE FILE_PATH="coverage/Lorenz_attractor$Epidemic.coverage" NAME="Epidemic Coverage Results" MODIFIED="1748450790253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pr7" />

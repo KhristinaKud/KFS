@@ -109,7 +109,6 @@ def genetic_algorithm(cities, population_size=100, generations=500, mutation_rat
     return best_route, best_distance
 
 #  Візуалізація найкращого маршруту
-# Візуалізація найкращого маршруту
 def plot_route(route, cities):
     route_coords = [cities[city] for city in route]
     route_coords.append(route_coords[0])  # Закриваємо маршрут
