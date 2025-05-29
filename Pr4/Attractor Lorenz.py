@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-def lorenz(xyz, *, s=10, r=28, b=2.667):
+def lorenz(xyz, *, s=11, r=28, b=2.667):
     x, y, z = xyz
     x_dot = s*(y - x)
     y_dot = r*x - y - x*z
