@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Модель епідемії</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <div id="parameters">
+            <div class="param-group">
+                <label for="p_infect_input"> Ймовірність інфікування для здорової клітини (P_infect): </label>
+                <input type="number" id="p_infect_input" min="0" max="1" step="0.1" value="0.5">
+                <span id="p_infect_value">0.5</span>
+            </div>
+            <div class="param-group">
+                <label for="t_recover_input"> Час від інфікування до відновлення (T_recover): </label>
+                <input type="number" id="t_recover_input" min="1" max="14" step="1" value="7">
+                <span id="t_recover_value">7</span>
+            </div>
+        </div>
+        <div id="colourstates">
+            <div class="element">
+                <div class="color" style="background:#31d51e;"></div>
+                Здорові
+            </div>
+            <div class="element">
+                <div class="color" style="background:#ad160e;"></div>
+                Інфіковані
+            </div>
+            <div class="element">
+                <div class="color" style="background:#084d8a;"></div>
+                Відновлені
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
