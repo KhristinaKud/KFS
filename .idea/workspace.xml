@@ -42,25 +42,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for TSP_test.TestTSP.test_create_population.executor": "Run",
-    "Python tests.Python tests for UnitTest.TestLorenzIntegration.executor": "Run",
-    "Python tests.Python tests in TSP_test.py.executor": "Run",
-    "Python.Attractor Lorenz.executor": "Run",
-    "Python.Epidemic.executor": "Run",
-    "Python.TSP.executor": "Run",
-    "Python.TSP_test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for TSP_test.TestTSP.test_create_population.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for UnitTest.TestLorenzIntegration.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in TSP_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Attractor Lorenz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Epidemic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TSP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TSP_test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests in TSP_test.py">
     <configuration name="Epidemic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lorenz attractor" />
